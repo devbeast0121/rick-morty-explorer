@@ -221,11 +221,17 @@ Multi-layered error handling from network level to component level with user-fri
 ### 5. **Cross-Browser Testing**
 Comprehensive testing across Chrome, Firefox, Safari, and mobile browsers ensures consistent functionality.
 
+## 🚀 Live Demo
+
+**[View Live Application](https://ubiquitous-alpaca-27a4f2.netlify.app/)**
+
+The application is deployed on Netlify and demonstrates all implemented features in a production environment.
+
 ## 🚀 Deployment
 
 The application is optimized for deployment on:
 - **Vercel** (recommended for Next.js)
-- **Netlify**
+- **Netlify** (currently deployed)
 - **AWS Amplify**
 - Any static hosting service supporting Node.js
 
